@@ -1,10 +1,10 @@
-# 5562922895:AAE1lIiAdh7WXjkm8Fo2gDWW-E1DxninaAY
+
 
 import random
 import telebot
 from telebot import types
 
-token = '5562922895:AAE1lIiAdh7WXjkm8Fo2gDWW-E1DxninaAY'
+token = 'token'
 bot = telebot.TeleBot(token)
 
 def create_keyboard():
